@@ -1,4 +1,0 @@
-acompanhantes
-=============
-
-Acompanhantes
